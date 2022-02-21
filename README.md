@@ -221,5 +221,8 @@ If you want to take your project even further going above and beyond, here are 3
 2. Fail over the RDS instance to the secondary region so it becomes the primary target and the first region becomes the replica
 3. Create an additional AWS module to provision another piece of infrastructure not discussed in the project
 
+## Self Notes
+- Initial Push
+
 ## License
 [License](../LICENSE.md)
